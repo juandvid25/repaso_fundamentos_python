@@ -12,32 +12,31 @@ Descripción
 Este repositorio contiene el desarrollo de los laboratorios realizados durante el curso de Programación en Python. Los ejercicios fueron desarrollados para comprender los fundamentos del lenguaje, aplicando conceptos básicos de programación y documentando cada programa mediante comentarios.
 Los programas permiten practicar:
 
-- Uso de la función `print()`
-- Parámetros `sep` y `end`
-- Caracteres de escape
-- Variables
-- Operadores matemáticos
-- Conversión de tipos de datos
-- Expresiones matemáticas
-- Conversión de unidades y moneda
-- Desarrollo de algoritmos básicos
+Uso de la función `print()`
+Parámetros `sep` y `end`
+Caracteres de escape
+Variables
+Operadores matemáticos
+Conversión de tipos de datos
+Expresiones matemáticas
+Conversión de unidades y moneda
+Desarrollo de algoritmos básicos
 
 
 Estructura del repositorio
 
 
 Laboratorio-Python
-│
-├── README.md
-├── print.py
-├── print_argu.py
-├── formato_salida.py
-├── cadena.py
-├── variable.py
-├── operacion.py
-├── op_expresion.py
-├── convertidor.py
-└── algoritmo.py
+README.md
+print.py
+print_argu.py
+formato_salida.py
+cadena.py
+variable.py
+operacion.py
+op_expresion.py
+convertidor.py
+algoritmo.py
 
  Descripción de los archivos
 
@@ -57,12 +56,12 @@ Operadores matemáticos utilizados
 
 Durante el laboratorio se emplearon los siguientes operadores:
 
-Operador | Función |
-+ | Suma |
-- | Resta |
-* | Multiplicación |
-/ | División |
-// | División entera |
+Operadores
++  Suma 
+-  Resta 
+*  Multiplicación 
+/  División 
+//  División entera 
 
 
 Estos operadores fueron utilizados para resolver expresiones matemáticas, conversiones y ejercicios de cálculo.
